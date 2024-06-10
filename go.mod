@@ -1,5 +1,5 @@
-module github.com/ceshihao/windowsupdate
+module github.com/mspjeff/windowsupdate
 
-go 1.15
+go 1.22
 
 require github.com/go-ole/go-ole v1.2.6
